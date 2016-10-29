@@ -3,15 +3,9 @@
 
 [@archillect](http://twitter.com/archillect), full-screen
 
-I use it, for example, a my browser home page.
+I use it, for example, as my browser home page.
 
 ## Use it
 
-To use your version :
-
-```
-npm install
-```
-
-Then, open `index.html`
+Downlad and open `index.html`
 
