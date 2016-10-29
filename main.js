@@ -52,7 +52,7 @@
         cb.__call(
             'statuses/userTimeline', {
                 screen_name: 'archillect',
-                count:       10,
+                count:       1,
             }, function (replies, rate, err) {
                 if (err || replies.errors) {
                     console.error(err);
